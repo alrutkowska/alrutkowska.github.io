@@ -27,4 +27,4 @@ http://chamo.bg.ug.edu.pl:8080/search/query?theme=BUG
 
 # obrazek
 
-![zdj1/git.jpg]
+![zdj1/git.jpg](obrazek.jpg)
