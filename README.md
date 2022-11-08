@@ -18,12 +18,12 @@ https://www.netflix.com/browse
 |Wiersz 1|Wiersz 2|Wiersz 3|
 |Wiersze 3|Wiersze 1|Wiersze 2|
 
-# kolejna tabela
+# tabela 2
 
-|K 10|K 11|K 12|
+|*|K|K|
 |:---:|:---:|:---:|
-|W 20|W 21|W 22|
-|W 100|W 200|W 300|
+|W|W|W|
+|W|W|W|
 
 # obrazek
 
