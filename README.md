@@ -7,9 +7,9 @@ Pragaraf 2
 
 # linki
 
-https://inf.ug.edu.pl/
+https://www.youtube.com/
 
-http://chamo.bg.ug.edu.pl:8080/search/query?theme=BUG
+https://www.netflix.com/browse
 
 # tabela
 
